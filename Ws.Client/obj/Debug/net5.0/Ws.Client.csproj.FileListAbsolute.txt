@@ -1,0 +1,16 @@
+D:\UdemyTrainings\WsServer\Ws.Client\bin\Debug\net5.0\Ws.Client.exe
+D:\UdemyTrainings\WsServer\Ws.Client\bin\Debug\net5.0\Ws.Client.deps.json
+D:\UdemyTrainings\WsServer\Ws.Client\bin\Debug\net5.0\Ws.Client.runtimeconfig.json
+D:\UdemyTrainings\WsServer\Ws.Client\bin\Debug\net5.0\Ws.Client.runtimeconfig.dev.json
+D:\UdemyTrainings\WsServer\Ws.Client\bin\Debug\net5.0\Ws.Client.dll
+D:\UdemyTrainings\WsServer\Ws.Client\bin\Debug\net5.0\ref\Ws.Client.dll
+D:\UdemyTrainings\WsServer\Ws.Client\bin\Debug\net5.0\Ws.Client.pdb
+D:\UdemyTrainings\WsServer\Ws.Client\obj\Debug\net5.0\Ws.Client.csproj.AssemblyReference.cache
+D:\UdemyTrainings\WsServer\Ws.Client\obj\Debug\net5.0\Ws.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\UdemyTrainings\WsServer\Ws.Client\obj\Debug\net5.0\Ws.Client.AssemblyInfoInputs.cache
+D:\UdemyTrainings\WsServer\Ws.Client\obj\Debug\net5.0\Ws.Client.AssemblyInfo.cs
+D:\UdemyTrainings\WsServer\Ws.Client\obj\Debug\net5.0\Ws.Client.csproj.CoreCompileInputs.cache
+D:\UdemyTrainings\WsServer\Ws.Client\obj\Debug\net5.0\Ws.Client.dll
+D:\UdemyTrainings\WsServer\Ws.Client\obj\Debug\net5.0\ref\Ws.Client.dll
+D:\UdemyTrainings\WsServer\Ws.Client\obj\Debug\net5.0\Ws.Client.pdb
+D:\UdemyTrainings\WsServer\Ws.Client\obj\Debug\net5.0\Ws.Client.genruntimeconfig.cache
